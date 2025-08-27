@@ -158,10 +158,6 @@ MIT — use, modify, and share freely. Replace with your preferred license if ne
 
 ---
 
-```md
-
-```
-
 ## 📷 Flowchart
 
 <p align="center">
