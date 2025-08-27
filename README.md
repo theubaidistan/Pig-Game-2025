@@ -159,12 +159,14 @@ MIT — use, modify, and share freely. Replace with your preferred license if ne
 ---
 
 ```md
+
+```
+
 ## 📷 Screenshots & Flowchart
 
 <p align="center">
   <img src="./pig-game-flowchart.png" alt="Pig Game Flowchart" width="600">
 </p>
-```
 
 ---
 
