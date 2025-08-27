@@ -161,7 +161,9 @@ MIT — use, modify, and share freely. Replace with your preferred license if ne
 ## 📷 Screenshots & Flowchart
 
 ```md
-![Game Flowchart](./pig-game-flowchart.png)
+<p align="center">
+  <img src="./pig-game-flowchart.png" alt="Pig Game Flowchart" width="600">
+</p>
 ```
 
 ---
